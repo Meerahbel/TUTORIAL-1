@@ -86,7 +86,7 @@ a{
 
 .icon{
     width: 25%;
-    height: 80px;
+    height: auto;
     margin-top: 15px;
 }
 
